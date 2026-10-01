@@ -1,0 +1,12 @@
+venv/
+.venv/
+
+*.duckdb
+*.duckdb.wal
+
+target/
+dbt_packages/
+logs/
+
+.env
+.vscode/

@@ -1,0 +1,8 @@
+# Pipeline tools. Works on Python 3.10+ (pandas 3.x needs Python 3.11+, so pandas is pinned to 2.3.3).
+# The same pins are used inside Docker via airflow/include/pipeline-requirements.txt
+# -> keep the two files identical. duckdb must match on host AND in Docker (file format).
+dbt-core==1.12.5
+dbt-duckdb==1.11.0
+duckdb==1.5.6
+pandas==2.3.3
+openpyxl==3.1.5

@@ -1,0 +1,42 @@
+version: 2
+
+models:
+  - name: stg_superstore
+    description: >
+      Cleaned version of the raw Superstore data. One row per order line. Columns are
+      renamed to snake_case, typed correctly, and postal codes are padded to 5 digits.
+    columns:
+      - name: row_id
+        description: Unique identifier of the order line (primary key).
+        data_tests: [unique, not_null]
+      - name: order_id
+        description: Order identifier. One order has one or more lines.
+        data_tests: [not_null]
+      - name: order_date
+        data_tests: [not_null]
+      - name: ship_date
+        data_tests: [not_null]
+      - name: ship_mode
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['Same Day', 'First Class', 'Second Class', 'Standard Class']
+      - name: segment
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['Consumer', 'Corporate', 'Home Office']
+      - name: region
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['East', 'West', 'Central', 'South']
+      - name: category
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['Furniture', 'Office Supplies', 'Technology']
+      - name: postal_code
+        description: 5-character postal code (text, leading zeros preserved).
+      - name: discount
+        description: Discount applied to the line, 0.00 - 1.00.

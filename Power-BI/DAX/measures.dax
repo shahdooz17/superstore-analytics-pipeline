@@ -1,0 +1,38 @@
+// Paste into Power BI: Modeling > New measure (one at a time), or use Tabular Editor.
+// Create a blank table called "_Measures" to hold them (Home > Enter data > name it _Measures).
+// Prerequisite: dim_date marked as date table (Table tools > Mark as date table > date_day).
+
+// ---------- Core KPIs ----------
+Total Sales      = SUM ( fact_sales[sales] )
+Total Profit     = SUM ( fact_sales[profit] )
+Total Quantity   = SUM ( fact_sales[quantity] )
+Total Orders     = DISTINCTCOUNT ( fact_sales[order_id] )
+Total Customers  = DISTINCTCOUNT ( fact_sales[customer_id] )
+
+Profit Margin %  = DIVIDE ( [Total Profit], [Total Sales] )
+Avg Order Value  = DIVIDE ( [Total Sales], [Total Orders] )
+Avg Discount %   = AVERAGE ( fact_sales[discount] )
+Avg Ship Days    = AVERAGE ( fact_sales[ship_days] )
+
+// ---------- Time intelligence ----------
+Sales PY         = CALCULATE ( [Total Sales],  SAMEPERIODLASTYEAR ( dim_date[date_day] ) )
+Profit PY        = CALCULATE ( [Total Profit], SAMEPERIODLASTYEAR ( dim_date[date_day] ) )
+Sales YoY %      = DIVIDE ( [Total Sales]  - [Sales PY],  [Sales PY] )
+Profit YoY %     = DIVIDE ( [Total Profit] - [Profit PY], [Profit PY] )
+
+// ---------- Profitability diagnostics ----------
+Loss-Making Lines     = CALCULATE ( COUNTROWS ( fact_sales ), fact_sales[is_loss_making] = TRUE () )
+Loss-Making Lines %   = DIVIDE ( [Loss-Making Lines], COUNTROWS ( fact_sales ) )
+Profit Lost on Loss Lines = CALCULATE ( [Total Profit], fact_sales[is_loss_making] = TRUE () )
+
+// ---------- Shipping ----------
+Orders Shipped Same/Next Day % =
+DIVIDE (
+    CALCULATE ( DISTINCTCOUNT ( fact_sales[order_id] ), fact_sales[ship_days] <= 1 ),
+    [Total Orders]
+)
+
+// ---------- Helper for conditional colours / titles ----------
+Profit Color = IF ( [Total Profit] < 0, "#C0392B", "#1E8449" )
+Selected Period Label =
+    IF ( HASONEVALUE ( dim_date[year] ), "Year " & SELECTED_VALUE ( dim_date[year] ), "All years (2014-2017)" )

@@ -1,0 +1,100 @@
+version: 2
+
+models:
+  - name: fact_sales
+    description: >
+      Sales fact table - one row per order line. Join to dim_date (order_date_key /
+      ship_date_key), dim_customer, dim_product and dim_location.
+    columns:
+      - name: row_id
+        description: Primary key (source Row ID).
+        data_tests: [unique, not_null]
+      - name: order_id
+        description: Order identifier. Count distinct to get number of orders.
+        data_tests: [not_null]
+      - name: order_date_key
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_date')
+                field: date_key
+      - name: ship_date_key
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_date')
+                field: date_key
+      - name: customer_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_customer')
+                field: customer_id
+      - name: product_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_product')
+                field: product_id
+      - name: location_key
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_location')
+                field: location_key
+      - name: sales
+        description: Revenue of the line in USD.
+      - name: profit
+        description: Profit of the line in USD (can be negative).
+      - name: discount_band
+        description: Discount bucket (No discount, Up to 20%, 21-40%, Over 40%).
+      - name: ship_days
+        description: Days from order to shipment.
+      - name: is_loss_making
+        description: True when profit < 0.
+
+  - name: dim_date
+    description: Calendar dimension, one row per day. Mark as the date table in Power BI.
+    columns:
+      - name: date_key
+        description: Integer key in yyyymmdd format.
+        data_tests: [unique, not_null]
+      - name: date_day
+        data_tests: [unique, not_null]
+
+  - name: dim_customer
+    description: One row per customer, with lifetime sales/profit and repeat-customer flag.
+    columns:
+      - name: customer_id
+        data_tests: [unique, not_null]
+      - name: segment
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ['Consumer', 'Corporate', 'Home Office']
+
+  - name: dim_product
+    description: One row per product ID with a single, deterministic product name.
+    columns:
+      - name: product_id
+        data_tests: [unique, not_null]
+      - name: category
+        data_tests: [not_null]
+      - name: sub_category
+        data_tests: [not_null]
+
+  - name: dim_location
+    description: One row per distinct geography (region > state > city > postal code).
+    columns:
+      - name: location_key
+        description: Hash of the geography columns.
+        data_tests: [unique, not_null]
+      - name: region
+        data_tests: [not_null]
+      - name: state
+        data_tests: [not_null]

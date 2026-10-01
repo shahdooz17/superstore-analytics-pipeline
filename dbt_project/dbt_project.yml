@@ -1,0 +1,34 @@
+name: superstore
+version: "1.0.0"
+config-version: 2
+profile: superstore
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+analysis-paths: ["analyses"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets: ["target", "dbt_packages"]
+
+models:
+  superstore:
+    staging:
+      +schema: staging
+      +materialized: view
+    intermediate:
+      +schema: intermediate
+      +materialized: view
+    marts:
+      +schema: marts
+      +materialized: table
+
+seeds:
+  superstore:
+    +schema: seeds
+    discount_bands:
+      +column_types:
+        min_discount: decimal(5,2)
+        max_discount_exclusive: decimal(5,2)
+        sort_order: integer

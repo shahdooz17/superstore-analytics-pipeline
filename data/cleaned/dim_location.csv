@@ -1,0 +1,633 @@
+location_key,country,region,state,city,postal_code
+07cf9e01a41ded0d9459f4e210deb2c7,United States,Central,Texas,Houston,77095
+758ca674125a56f5fef88fcf9c42c581,United States,East,New York,New York City,10009
+b98a38c63adc63b815c40d17de5ca2cb,United States,South,South Carolina,Columbia,29203
+4696326832611995af7864e93af5bc6a,United States,East,Ohio,Columbus,43229
+7c51614545eacc049da29ac7255e0fe5,United States,West,Washington,Seattle,98105
+0911f8440201a59eb101f74e4e9ac156,United States,East,Ohio,Hamilton,45011
+49ebfc4574c9a659f7c3c7397e8737ef,United States,West,California,Hesperia,92345
+4206bedd1dfaf4a4f44f43b22a5b410e,United States,Central,Missouri,Gladstone,64118
+418fb01437d4c1726e491228d7a29b4e,United States,Central,Illinois,Chicago,60653
+4da5ff33739809a2ec4a490cb0d0e191,United States,East,Ohio,Springfield,45503
+580ace4c900b8eded3d2a2cab28b1ebd,United States,Central,Michigan,Rochester Hills,48307
+876173205da4eefa9ba9f5357142ed34,United States,Central,Texas,Tyler,75701
+0845813fa9e8368c9da70298b49efa33,United States,South,North Carolina,Cary,27511
+68075f6bab48846c49b00b54d703499e,United States,Central,Iowa,Burlington,52601
+7afbfbc4cdd1d1251f6036825874b36f,United States,East,New York,Yonkers,10701
+cc9dd62d8fa2f43c5f6bc6aedd610e00,United States,West,Colorado,Pueblo,81001
+08c3d653633da5feda5172296f5830ec,United States,West,California,Pomona,91767
+c78b4faff6d0da65c6cb551e4c144bb3,United States,West,Arizona,Tempe,85281
+0b081676d3f002c0b965de11471efe52,United States,West,California,Laguna Niguel,92677
+51aee282667d78979607b67fef58931c,United States,West,Washington,Auburn,98002
+565a1ce396e998b72d32e23a956f3a9d,United States,East,New Jersey,Passaic,07055
+3121383fa9e3badcb0cb503edf80914c,United States,East,New York,Jamestown,14701
+917573e73bf30f30d16ea0da5370a101,United States,Central,Indiana,Mishawaka,46544
+8a37d0b985bed7f822698b08b46eeaa3,United States,West,Utah,Murray,84107
+2e63d2046c783cda2d54559039519997,United States,Central,Michigan,Dearborn Heights,48127
+62524171fe3eec7774fb65bd4d225918,United States,South,South Carolina,Rock Hill,29730
+a96dc73b7000419175ecffd08ecc27e3,United States,West,California,Chula Vista,91911
+052d27466a2a636d764d9f21ac6db514,United States,South,Arkansas,Texarkana,71854
+f0f9d19fb865491356fe68bdd2e5d966,United States,West,Idaho,Boise,83704
+2b8028db55d4961a75d8bd2c7f6dc032,United States,West,Montana,Helena,59601
+ea8f940f8d16e616fc3090ee8c887c1e,United States,Central,Michigan,Roseville,48066
+7ca68dcefefe7fe87490a83cd015a4f4,United States,West,California,Chico,95928
+69d98d36b57e5ad21d9dfc9b9af259f6,United States,South,Florida,West Palm Beach,33407
+a5f9f1378c3bc71eee94e112ef27c0c8,United States,Central,Missouri,Saint Charles,63301
+9c72e5b44ea3a597d8c3243701d5a357,United States,West,California,Morgan Hill,95037
+1443b3960f39f1c3425a04175e922dc7,United States,Central,South Dakota,Aberdeen,57401
+17dfbb5a88101b05d1be3e41e4b29332,United States,South,Tennessee,Memphis,38109
+4abd94314d0ddf71df7184d9bb8dc328,United States,Central,Minnesota,Rochester,55901
+71f125568781b2c993bfed7c4962586a,United States,West,Arizona,Phoenix,85023
+afe6a48e8b683b65e557e302a15270ab,United States,West,California,Roseville,95661
+a2ca2f43a25e71313716ba8546c1a601,United States,East,Connecticut,Fairfield,06824
+c27f9294fe0fab807479e8720f80d4b8,United States,Central,Michigan,Saginaw,48601
+e9e6663f88ee783c7ddfc619405bf0fd,United States,Central,Indiana,Columbus,47201
+f2c1c4625d2d9001324b88d85c49cb5d,United States,South,Arkansas,Fayetteville,72701
+62c2a6d13fb773b9af4997cbd417d672,United States,West,Washington,Marysville,98270
+ba8d2ed8ba810f0383a4c7b2f8fa6213,United States,West,Arizona,Sierra Vista,85635
+155ed4b67b9a9fcf30e621c69fe5dc16,United States,South,Louisiana,Bossier City,71111
+8006f3bed048ebe2d10fa6810ff50070,United States,South,North Carolina,Asheville,28806
+d7de79f5f94c5c72a01937224e6f9f78,United States,East,Pennsylvania,Lancaster,17602
+55c4049424f197b9f3901cd94b9bcf73,United States,East,New Hampshire,Concord,03301
+2bd4dc06b0964698d1eceebd664e3cf9,United States,East,Maryland,Rockville,20852
+eaccb3073bbe0da4bac5ef59bcad3c52,United States,South,Mississippi,Gulfport,39503
+d6dec033f13bfdba9a8bc172d54edb9e,United States,Central,Iowa,Cedar Rapids,52402
+2eb0f73566e4239a33cba9b7f0254c9f,United States,South,Louisiana,Lafayette,70506
+57d2653d6d58f4f46634e40c621d1b62,United States,Central,Kansas,Olathe,66062
+802a79c8a68f9dfc78813f0be9aaccee,United States,Central,Indiana,South Bend,46614
+77c158bc7b90a2d32473a18750043d6d,United States,Central,Texas,Keller,76248
+7568478bbec9a2c88beb72f5232089f4,United States,East,Ohio,Marion,43302
+0ff6071c9753c35c7ddebf20aa257078,United States,South,Florida,Pompano Beach,33068
+4ecc2ddcd1739498efc4c799d2a27b37,United States,East,New York,Hempstead,11550
+11f445a04eb09ebd7dc021361c1c493e,United States,West,Montana,Billings,59102
+25398d8562005b3e859e410686a27b5a,United States,West,Oregon,Gresham,97030
+432a1eeda2b630e8d172126b5b4aa5d4,United States,Central,Illinois,Bolingbrook,60440
+3a56063461fe7d606e7250828da40c1b,United States,Central,Texas,The Colony,75056
+032475805d3779c0f0fc4c3cda87530d,United States,Central,North Dakota,Fargo,58103
+51a154848df724a1c179b260f07a2c1a,United States,West,California,San Gabriel,91776
+48e182d95eae1f974bec2d3d8d4d7a86,United States,East,New York,Rome,13440
+516f861f4b8306279022ee4b8d12f4f5,United States,Central,Michigan,Holland,49423
+f118ce5a455cdba505dfb2a49b8403ff,United States,West,California,Lake Forest,92630
+c1c076167d276dfac05e559c3d0002d8,United States,East,New York,Utica,13501
+cfa5fcfe428d3bca0bbc17774e38ad29,United States,South,Kentucky,Owensboro,42301
+8ad410175dd7e5ad18265c85a74da7e3,United States,Central,Texas,Texas City,77590
+05c360a7241b81279b5b710f49c206ff,United States,West,California,Montebello,90640
+4ae3f61f5d21803cd7edc43ed91b93be,United States,West,Oregon,Hillsboro,97123
+5d1dece2d56d5b1df57c2e0ec3e82429,United States,East,Maryland,Hagerstown,21740
+b6086ec931a4431b829aafe80c5a44d9,United States,East,New Jersey,East Orange,07017
+9d97420764fb72e04ec21dc1f1e3ecca,United States,West,California,Los Angeles,90036
+0d8acfb0c8b8a2f9e87106be5091541c,United States,Central,Texas,Fort Worth,76106
+c3383f0d59dddfe12b985c7608271e02,United States,Central,Wisconsin,Madison,53711
+3b0c74bfc7f224882f71e4f164bd616b,United States,Central,Illinois,Bloomington,61701
+ce39f1878054667482f6c2b07bc87e21,United States,East,Pennsylvania,Philadelphia,19134
+50a397ff8d0e657efd401781d3d32315,United States,East,Ohio,Medina,44256
+554bab0a0d11291ed3aaa4f8bb089c1d,United States,East,New Jersey,Morristown,07960
+e43f1b6d734dc1518ca2b7dc4d3093ec,United States,East,New Jersey,Hackensack,07601
+ec8f16de493960e677231c2dc90bf9fe,United States,West,Utah,Layton,84041
+06cb2441a810b472626d79ae18bbccd5,United States,East,Massachusetts,Lowell,01852
+048339ee60ce69b8b99f52e2dbb1912d,United States,South,Florida,Pembroke Pines,33024
+5580c4a7a224e7c2441a4bc30ab4c52e,United States,West,Washington,Des Moines,98198
+ed21168e2c75e3d5fbef90018c6ed1f2,United States,South,Florida,Jacksonville,32216
+e5bf90cacf8fb8a4030d37779b931fb1,United States,West,California,San Diego,92105
+6fa6e78263bb5d7c6c056fb78fe66c80,United States,Central,Wisconsin,Milwaukee,53209
+6f064e815058a63952b08a6c150a0964,United States,Central,Texas,Round Rock,78664
+6c2c59ead17115e484f9d19ab3f284b3,United States,East,Maryland,Clinton,20735
+5f5337d3139c0adcbb7391235e57b959,United States,South,Georgia,Roswell,30076
+25cf7f3d60eca524e8318c8e7f6cc3b4,United States,West,California,Escondido,92025
+260b526adbebb3e68c42062a8a6d71a4,United States,West,California,Manteca,95336
+124cd63f8dd2acd0ddd6bce9c0ca8f95,United States,Central,Texas,San Angelo,76903
+db4532b677acd07878596f04473bee1a,United States,South,Alabama,Huntsville,35810
+e2b65edbedaa129c039ac22137f61d5d,United States,South,Tennessee,Knoxville,37918
+45dad9b3a4f7f905bd830b8b1c915ce0,United States,East,Ohio,Bowling Green,43402
+4332b43428cef9ce611022286982c575,United States,West,California,La Quinta,92253
+58dd872db9fae17843492f0484f6dd65,United States,West,California,Woodland,95695
+05fd8b5ac27daad9450507115b85614e,United States,West,California,Visalia,93277
+da9b6ffe567017c8723221d90485fdd5,United States,Central,Indiana,Bloomington,47401
+8bc72b6cdacfd456c1262ac645965ca4,United States,East,Rhode Island,Cranston,02920
+9fb649c4dbc53f705f9ad1208335ae8b,United States,South,Georgia,Sandy Springs,30328
+7514576f72fb4d03c6d139bb735ca064,United States,Central,Illinois,Danville,61832
+7a639d125041e20d86176941f2945243,United States,West,Arizona,Chandler,85224
+a41e3267163714589d531c9b7f8d4125,United States,West,New Mexico,Clovis,88101
+46374d199de22e2fa399e02f4afacca6,United States,South,Arkansas,Conway,72032
+c794d6d54707db31df60a6db33c6fe99,United States,South,North Carolina,Wilson,27893
+a5cfc9e61e7ef335aebad799d6440156,United States,East,New Jersey,Clifton,07011
+7f355489ab7dd41b2cf834746de38f9b,United States,South,Florida,Coral Gables,33134
+0e8c9d0fd540d7fdc22e3330a4c762c7,United States,Central,Minnesota,Coon Rapids,55433
+dc9beba3dc242827a7380f71cf406814,United States,Central,Texas,Richardson,75080
+4907f525ea019a24c7cd72e107f7438e,United States,East,New York,New York City,10024
+261a4a39e480cdbad4504bbf9f612f3a,United States,South,Louisiana,Monroe,71203
+ee2e56db23602944c8a9d951291ae491,United States,West,California,Brentwood,94513
+01d9b1faefa87b2454116c2610cdf5d2,United States,South,Florida,Tamarac,33319
+c4da6d251f943b6ea76371b6677c6df5,United States,East,New Jersey,Belleville,07109
+821d4b5e84ade4271cf945d4788b9cd3,United States,Central,Illinois,Peoria,61604
+94c6ca3eb4a3c1ef7ae45f4dfe998eea,United States,South,Florida,Miami,33180
+b92f6def4f25319139762cdbd03f1628,United States,West,California,Huntington Beach,92646
+b026a3098904b2ce8c424d7e886c9a76,United States,East,New York,Lindenhurst,11757
+e4e248817cbd8c2e69b9381850ee0a23,United States,West,California,Anaheim,92804
+5922c34c9604ef5c126fe4a0648de7fd,United States,Central,Texas,Dallas,75217
+145d43e11d7b66200bd70246261de42d,United States,East,Connecticut,Norwich,06360
+966d0e17b8e8e3bbc605e4f6a3dde369,United States,South,Virginia,Alexandria,22304
+36dbe7ded01176f05c7334a3702e1ba7,United States,Central,Missouri,Saint Peters,63376
+bb877e93b054152d10d4bb712f1a0632,United States,South,Virginia,Harrisonburg,22801
+8d53fccf51dc3dfe93e6e69aa6fecb2b,United States,West,Utah,Provo,84604
+d4201771186b867d33414dcada887064,United States,South,North Carolina,Thomasville,27360
+39ca64b6ddf31e3be0fb38c05141a7bc,United States,East,Pennsylvania,Allentown,18103
+c57adec09b6b65d13084d1274496ebd9,United States,East,Delaware,Newark,19711
+82c46ed937380f8dd755881ddd33ab05,United States,South,Kentucky,Bowling Green,42104
+4aaa164ad3ac724f967a6e336bf0549a,United States,South,Florida,Miami,33178
+da54d997444f0aa56efbb520522500d2,United States,South,Tennessee,Johnson City,37604
+8e3439b509345d2250edfb1cbdd62ca3,United States,West,Arizona,Peoria,85345
+438fc992e4aacf387b68882ba1db7f88,United States,Central,Minnesota,Moorhead,56560
+f979736c6f2d8f15deee7c76373cecca,United States,West,California,Stockton,95207
+e2d9cdc6a319077dc9141d5a809afbac,United States,East,Massachusetts,Quincy,02169
+d4463ab8c0848a803e59c8a6702fcdba,United States,South,Arkansas,Little Rock,72209
+4202c4907cf721a45a218795b05e0db6,United States,East,Massachusetts,Holyoke,01040
+bef9a8d2790e97b0fec8aceb81233ca7,United States,West,Colorado,Englewood,80112
+3361c68d55f0f40004766292ce21cdd9,United States,Central,Illinois,Champaign,61821
+a6833b229df33b592eb5434ef1cfaab1,United States,Central,Texas,Port Arthur,77642
+c9754c6f73ecbc3223a4a4c09aa679e0,United States,West,Washington,Pasco,99301
+9ef44d1c7550fb4b27569dc7f87cde2b,United States,Central,Illinois,Oak Park,60302
+9dc91001c6922ab1211c1f537896b43a,United States,South,Florida,Pensacola,32503
+dfe30aee28be35a080607bd7c35d13af,United States,Central,Texas,League City,77573
+ce5e90550aad2fecc8c68d82ef753539,United States,Central,Iowa,Waterloo,50701
+ca03ebd1054b7982ba3ba10543f3f61c,United States,East,Massachusetts,Cambridge,02138
+f1d8b3ba6b500079df972936b1340c7b,United States,West,Oregon,Eugene,97405
+f5038b86d4944df88fbc51e5067be3f3,United States,Central,Wisconsin,Sheboygan,53081
+b857a08ea78390886353673511932852,United States,Central,South Dakota,Rapid City,57701
+32ced554ca4415c8a74971016a20543d,United States,East,Maryland,Laurel,20707
+b88fc3a407eb6090d65742dcbda3aed5,United States,Central,Texas,Bryan,77803
+492b78ca0b9bf4534e29ee20cff7c0d9,United States,Central,Illinois,Oswego,60543
+76ebdb82d05dc48f806414fb18fbd998,United States,Central,Illinois,Chicago,60610
+9dbf90ba76aca42e65cb895001a8dc95,United States,South,Virginia,Springfield,22153
+5bfc018f8d395044f20b4788c650bc00,United States,Central,Iowa,Urbandale,50322
+2e83190e7312608a2d4a892e0784a93d,United States,West,California,Pasadena,91104
+8041276dc271a364f75e888e9aa6254f,United States,East,Ohio,Newark,43055
+1a2e152a7cef2ebc0598da359b5f2d08,United States,Central,Oklahoma,Edmond,73034
+06b0d17ab6622fba158e12672f1e4875,United States,Central,Texas,Dallas,75220
+58157ae9691035c120e7068dad7d8e81,United States,Central,Michigan,Detroit,48227
+b01c61082a99a1f5e33b3887bee412e5,United States,East,Ohio,Cincinnati,45231
+61d93df7bc6d0c639127030a379d6140,United States,South,North Carolina,Gastonia,28052
+0cb6ccc38b6c75a39ed96cf06e7ca5a3,United States,East,New York,Auburn,13021
+578b908c0abd3a9aed0ce85ad424852e,United States,South,Alabama,Montgomery,36116
+cc983773c6592e4f6265faf47a41e5bf,United States,West,Arizona,Mesa,85204
+ea3ef04f25bedf8d16d23849a7b1cccb,United States,Central,Wisconsin,Green Bay,54302
+de9fa1236cdbef5612fe8b3df762fdd8,United States,Central,Texas,Arlington,76017
+6132cc517536266519cf88163c87b548,United States,South,North Carolina,Burlington,27217
+0e7b7c4063612ff90ddc7dcb0a07ef36,United States,East,New Jersey,Linden,07036
+9a5f738c0544b257fe3f2bcc943e90f1,United States,East,Ohio,Toledo,43615
+28c39fece0f7d6718cab7b1483f9c3b8,United States,Central,Texas,Brownsville,78521
+9dcbef76c98b72464b8ef96299f50ee1,United States,West,California,Oakland,94601
+3aabf7cf6504acae94e3bfce4e0b381f,United States,South,Florida,Homestead,33030
+a727a0d328cda18375bae2c850e66882,United States,South,Georgia,Macon,31204
+a748f067dd9a914e7a266c975a3e5929,United States,South,Florida,Deltona,32725
+a1669401522ee45b671a0e62048e78fb,United States,West,Utah,Pleasant Grove,84062
+eca2e11beea41098a2773cfcb4426e4b,United States,South,Georgia,Smyrna,30080
+a7db8530dc7ada5eb9545728ff6f42dd,United States,East,New York,Niagara Falls,14304
+b5d07abc8310fd85d00412266f8e854a,United States,West,California,Westminster,92683
+0087973fc76cfd9f92cb6db40395117c,United States,West,Washington,Bellevue,98006
+0aa03da312e49508955d83aaaf05d474,United States,Central,Texas,Plano,75023
+62a7ef789db62b0a29e181653fb39403,United States,South,Virginia,Suffolk,23434
+428d063cdcac59247916b71726bf38ac,United States,South,North Carolina,Fayetteville,28314
+49a28773dc6ebc2aba612db8332e3021,United States,South,Virginia,Chesapeake,23320
+d8a3e66fcccd7f33f0fc5afde92acb71,United States,West,California,Ontario,91761
+62c6d1f88d42f792fe051a9f6e222f70,United States,South,Florida,Ormond Beach,32174
+5f92a50456c886c998f5b7e32c42f954,United States,Central,Texas,Frisco,75034
+a1a94ad0b2139d6a2ac946d40df2f093,United States,West,California,Bakersfield,93309
+50ec4a58984c68427f3228e646a4ba41,United States,Central,Michigan,Sterling Heights,48310
+0633a63ce45841379af49db25c1f7b85,United States,Central,Texas,Pharr,78577
+6a5ee4b67f99d52b67d6f7909c9f71f3,United States,South,Tennessee,Chattanooga,37421
+82b9905f3009ba3977c519ca66362eeb,United States,West,California,Yucaipa,92399
+a8c8569226e1cd4e7677aba69a575de9,United States,East,Massachusetts,Revere,02151
+e60b1d1c34bbfc194e637fbb7408fccc,United States,Central,Indiana,Greenwood,46142
+f43699374ba54ef4c8a8c88d81bd0ff7,United States,East,Rhode Island,Woonsocket,02895
+a3b6c3468ec7f8cabf5aa74480ee3483,United States,Central,Illinois,Freeport,61032
+3bc5fa6e0392774a4ea86d0590e14f47,United States,East,Ohio,Mentor,44060
+24e49d9aad02b9437c96e9702ff1c010,United States,Central,Illinois,Des Plaines,60016
+dba8fdb1a7b32a28c49fe27a5fd0da3c,United States,West,Colorado,Commerce City,80022
+9e5f3ad8438c65f04786cac532a5ce5d,United States,West,California,Camarillo,93010
+898e7e8055f637357878d5cdecd4fee2,United States,Central,Kansas,Garden City,67846
+88965b25d32bf75f9831b17ad09efb15,United States,West,California,Davis,95616
+468e38e6256f1007283c24dd0e9d6104,United States,East,West Virginia,Wheeling,26003
+48d39e22d64a0224a7fbeb8fe11b9b1f,United States,Central,Texas,La Porte,77571
+ded1e97b16aea66f519355eb4c9cdaa7,United States,West,California,Los Angeles,90049
+996dc910e63d22cd64fcc89de2d7f585,United States,South,Tennessee,Bristol,37620
+4b1c2feb2fe36aed08949c3fddca153a,United States,Central,Texas,Houston,77036
+50e881d165815b840d23af0d36e405a5,United States,South,Florida,Tampa,33614
+8aebec5e2d81e0c9f001ab13c4d9ef9f,United States,Central,Texas,Pasadena,77506
+afc3536f394dcd749d0b3b1cc5e048e8,United States,East,Pennsylvania,Philadelphia,19143
+3067a0011e43a0a2269509a1c2bf955a,United States,West,Colorado,Louisville,80027
+86aa391e3acfef132164f676316529d7,United States,South,Georgia,Atlanta,30318
+47e441b5e756bb95f1e34b5f3819c165,United States,East,New York,New York City,10011
+fa97c7ab91dead427ecfb848210613be,United States,East,Maryland,Columbia,21044
+bd2de903969add8ceb7146bf485f33c4,United States,Central,Illinois,Rockford,61107
+67492cb52130da5e119261cd9d9755ef,United States,Central,Indiana,La Porte,46350
+063001aff09c3279e953f77a4d84e973,United States,South,Florida,Boynton Beach,33437
+f8689f9d130213edb6556c800ecb5027,United States,South,North Carolina,Greenville,27834
+f1faf0c61197e35a142996486fea1639,United States,East,New York,Freeport,11520
+f24ea3d0478bf8155518a67fa511dfae,United States,Central,Wisconsin,Appleton,54915
+69d4a3865bc27116939c61b543476d17,United States,Central,Texas,Carrollton,75007
+1034b2968523ae4d0112bf65d13be4ba,United States,South,Virginia,Charlottesville,22901
+46d9a130c708f222af2467aa04ba61c2,United States,West,Oregon,Springfield,97477
+864a72cb4045b13ec05b9dbd1bdc5502,United States,Central,South Dakota,Sioux Falls,57103
+c7f06835629569688fd9fec7d6253fce,United States,Central,Indiana,Lafayette,47905
+47a6f2b086fd45ccbde0c7afdf40b4b5,United States,West,New Mexico,Albuquerque,87105
+b30eb3ebf5cc9e7d0b7f8ae5c1e4fa94,United States,West,Washington,Bellingham,98226
+9773d6f06992719292a0147dbbe99e8f,United States,West,California,Redondo Beach,90278
+7c3b6e98074dbc89f6dab1d869745fe0,United States,Central,Texas,Missouri City,77489
+1f1bd793a36c5e1f431527777caefeb3,United States,Central,Texas,Conroe,77301
+cd324bffce46776edcc8c32b2dde3509,United States,Central,Texas,Baytown,77520
+fa4cadce4b668660f894c5dce7e5d1e6,United States,West,Washington,Covington,98042
+1cdc31410638a3f02d26039bf787be5f,United States,West,Arizona,Avondale,85323
+040478049baca23914f7771b77f57dcd,United States,Central,Texas,Waco,76706
+52c2fee0ec5831fb0409d175f9be7c22,United States,East,Massachusetts,Andover,01810
+05769962b0ca0333dd78de6cd8f71f9f,United States,East,Massachusetts,Marlborough,01752
+c5396359fec43130edf08ecf010efdb3,United States,West,Utah,Orem,84057
+1ab4cbe61c8e4a8a1bf4ad728381cac3,United States,Central,Minnesota,Saint Paul,55106
+4c1379d4fb739ed2f04b54434174f030,United States,South,North Carolina,Charlotte,28205
+1f2f3fe5158f2d9ffaeaaadc7af5e48d,United States,West,Arizona,Scottsdale,85254
+81258b384821d9c17374a4ce597742a3,United States,East,Pennsylvania,Philadelphia,19120
+4ce1b4fafe6a2778f8021c7bb5b94f86,United States,East,New Jersey,Lakewood,08701
+b596ab812ccb612de26dd0d4ab9d7318,United States,East,Massachusetts,Lawrence,01841
+6c8348f6cc940d8fe81f20c649bbacca,United States,East,New York,Rochester,14609
+bc718227acad38365f449e6b0a64db38,United States,West,Montana,Great Falls,59405
+6adb4239fb89dd4e1db6f969711c3db9,United States,Central,Illinois,Aurora,60505
+b0a774bf895b8aaeef5aab307e778d27,United States,South,Kentucky,Louisville,40214
+10e725b82c3ea3efdbf96c820aed07de,United States,Central,Michigan,Detroit,48205
+eec18b035d7a470c2bfde23e063a8b69,United States,Central,Indiana,Richmond,47374
+843178e96bd5a6cfeb7f5e7989e97fca,United States,East,New York,Buffalo,14215
+05b4e1c9f06d80706bef0ca600df5642,United States,East,New York,Long Beach,11561
+db14a0eba73fa7570934af4ec8c61c05,United States,East,Connecticut,Middletown,06457
+94fb9e8cfcc40b9fa6a5c85b4d289763,United States,East,Massachusetts,Everett,02149
+1a64703b266ab994659b3b1334f1f0a3,United States,Central,Texas,Allen,75002
+572fdf89472a3b1d1c6e3ef58312f0e1,United States,West,Oregon,Tigard,97224
+b2c29ac51ba8dd598c234592fda3b47b,United States,Central,Oklahoma,Muskogee,74403
+dc7bd99869a92b610b9517bef429463d,United States,Central,Texas,Lubbock,79424
+ca8d8023d99849484e3efb5d4f51ecc9,United States,South,Alabama,Auburn,36830
+7543e4649ce0fcb7dec3bd61312fd439,United States,Central,Michigan,Lincoln Park,48146
+d53c1c8af8fe634f0bc05d304d70029e,United States,West,Nevada,Sparks,89431
+ea5e08e72f663b220e230a7ebfec32c3,United States,South,Virginia,Newport News,23602
+7fed2ca876033335cdcca1009771bb28,United States,South,Arkansas,Hot Springs,71901
+bf4cfb148c38b7498a1f2b248d70d6c6,United States,South,Alabama,Hoover,35244
+84fe32aab2b7c93324a9819c5c54f199,United States,Central,Minnesota,Apple Valley,55124
+5a1f71f87334acedeacb59b287fad805,United States,West,Idaho,Lewiston,83501
+05e8300843cd37df8d3ed00a8b44d22f,United States,South,Arkansas,Rogers,72756
+1bfb276ae9e2ecb2070f27a8627801af,United States,West,Idaho,Caldwell,83605
+744f5dbea6ea1a34e35b26312869122e,United States,West,Washington,Longview,98632
+c1cabf7792f2cbae89e27f1f79c165c8,United States,West,New Mexico,Rio Rancho,87124
+d295946cf2c143a358b64e1dc529ab8a,United States,Central,Texas,Abilene,79605
+f1bac050061b748e9c8afee67f5675f6,United States,Central,Illinois,Normal,61761
+57f9a5264cd005007507dcde53f2ce33,United States,West,California,Burbank,91505
+dcfccde5b0dfd492887dba1a9f3ecc2e,United States,West,Colorado,Longmont,80501
+61d3809dd78baf172ed0c654f2a71795,United States,West,California,Los Angeles,90045
+d09c0685e96ef33936d67338ef00f9b3,United States,Central,Texas,Harlingen,78550
+0de2468eeaa94711d8a92df64aed3347,United States,West,Arizona,Tucson,85705
+e964f46d0578e497db1e09d507d53749,United States,Central,Texas,Laredo,78041
+72e5413a3a6be27c7d7cac34d2df14a7,United States,South,Georgia,Warner Robins,31088
+53a1b381a135f0167253d2160dcee4cd,United States,East,New Jersey,Plainfield,07060
+68b350e118654230154279b666c3bfa5,United States,Central,Texas,Dallas,75081
+8682dbba27bf1cd7fc367d2f8a5de303,United States,Central,Minnesota,Cottage Grove,55016
+88f745c5504e421b006a8a63dd6b0519,United States,West,California,Lake Elsinore,92530
+0849e5fa330cea968cb14097d014816b,United States,West,California,Torrance,90503
+5d1cba4e3cfdb430a54b72a0562d77e6,United States,South,North Carolina,Jacksonville,28540
+445ae5338eb9eabdf9b4effb0d85775c,United States,East,District of Columbia,Washington,20016
+f09df62fcad7c3d9d72b9e8df349aec2,United States,Central,Michigan,Royal Oak,48073
+0f3a3c6624aee95811e9192ca660ec73,United States,West,California,Fairfield,94533
+0ae467a4cb40c319c25fb9237da85bb4,United States,East,New Jersey,Bridgeton,08302
+6f035896a14894580545d9752f3101c9,United States,East,New York,Watertown,13601
+19d6d866cd11164c490aa2b0acefb20a,United States,East,New Jersey,Bayonne,07002
+96a2914fc3d7ef1c4149c3fcbd886284,United States,East,Massachusetts,Leominster,01453
+bf0f088aa6f1b9e96f4a4cea48f6bb7a,United States,East,Maine,Bangor,04401
+9ba234883183f58b4d04532820fab91d,United States,South,Mississippi,Southaven,38671
+b87926304bf228df1d0251b6550320f2,United States,South,South Carolina,North Charleston,29406
+6489cd207a5ef972e74a3860ca9a698c,United States,Central,Texas,Haltom City,76117
+37ce494863acd73b10861efc8b77e8b6,United States,Central,Wisconsin,Eau Claire,54703
+f41c2676ad5436cd636bb6d48f32ad7b,United States,South,Florida,Plantation,33317
+1f4de1356491ad62de1088caac5cf1da,United States,Central,Texas,Odessa,79762
+91820d5d49e57208e12a9a93028938cc,United States,Central,Kansas,Wichita,67212
+ab079055d2bc33ed7e9c3301f2b2b587,United States,South,Georgia,Marietta,30062
+e54a0935bac0655c748793e9c15020a0,United States,Central,Minnesota,Roseville,55113
+78aeeb7753520fbd3b684e041139cd99,United States,Central,Texas,Cedar Hill,75104
+9c08cb4deac1017811eb894cadaead07,United States,East,New Hampshire,Nashua,03060
+5ff342757c13d1d5f8f4c04bb340a2aa,United States,East,Connecticut,Danbury,06810
+95bc04c57bd25cbdb0a449c30d556f3d,United States,Central,Illinois,Romeoville,60441
+859c843d604847491591a26adbc0185c,United States,South,Arkansas,Pine Bluff,71603
+05529c3fd6d98c30e03c742c6797ea5e,United States,South,North Carolina,Concord,28027
+a299f2472b6c4fc5c5abec2683f6cc6c,United States,East,Pennsylvania,Philadelphia,19140
+cf8498698989d4f7add04e535c87a8f0,United States,Central,Illinois,Naperville,60540
+95ddc4478308217829298fe3701a0aa4,United States,South,North Carolina,Durham,27707
+f03e91f93afd7fafaf62bbb30fff404f,United States,Central,Missouri,Independence,64055
+d3798eccbd8c815a19be6e8e79437bcf,United States,Central,Illinois,Decatur,62521
+ec2a9e96cc2331ea5054627495c91c63,United States,Central,Minnesota,Lakeville,55044
+92ba39a88de6e59f5b50e0af6524e88a,United States,South,Virginia,Arlington,22204
+36f7d4abc8203d4c99a0001718dce8c6,United States,West,Colorado,Arvada,80004
+487e9acd53b7516cb0a3b7cdf6b3399b,United States,West,California,Long Beach,90805
+8eb16c0fc7d7b0bd65b001ab469f9d3d,United States,South,North Carolina,Wilmington,28403
+45ce79053f11145cce98f9e23f50371c,United States,South,Kentucky,Richmond,40475
+b9e4b7ac8e16857a2496855c36c77caa,United States,West,California,Lancaster,93534
+42c7a311cd6229715a822afe5e04cbbd,United States,West,California,Encinitas,92024
+17a2f5dca17da4cacea32ff99a723b8f,United States,West,California,Antioch,94509
+cc292b38eb0aa5b6b23ca57aa115713a,United States,West,California,Pico Rivera,90660
+3a681465189a62142ff6e109044f77fe,United States,South,Tennessee,Smyrna,37167
+fc15831d1ad59b8432ad8d8eabb01086,United States,East,Pennsylvania,Reading,19601
+13d320edf62d92571be1929026de3302,United States,West,California,Rancho Cucamonga,91730
+993fc9c3e7a3b61c723f03f5848fe892,United States,Central,Illinois,Elmhurst,60126
+80f7f6179d8395c1ef552f4d78b3888a,United States,West,California,Vacaville,95687
+c2e6936bcf63678aaf45518da5296fd1,United States,Central,Texas,Edinburg,78539
+9b6f135f7049e69f3b2bf388914886af,United States,South,Florida,Hollywood,33021
+8fcb0bd4a28b3af06e025183ddc1a75a,United States,Central,Texas,Mcallen,78501
+267d81b1dae1611bc8c332f29b0fd8ea,United States,West,California,Citrus Heights,95610
+65dcaf20e6cae9f9c129cb473c41e0b3,United States,West,Utah,Logan,84321
+c9203b1fa236aef433d15b73e080bf19,United States,South,Georgia,Athens,30605
+c4a8b007389da1982308613fb99818f4,United States,South,Alabama,Tuscaloosa,35401
+90340806f0f12f4aad26ad3a158cb288,United States,East,Pennsylvania,Bethlehem,18018
+ec97567157e90b8b8da544484b78f6cd,United States,Central,Michigan,Oak Park,48237
+604256ba434d1f63855e9067da91dbf8,United States,South,Louisiana,Kenner,70065
+fb45dd18678a5b87cec7a846eebb1584,United States,South,Tennessee,Bartlett,38134
+d9dd385a44f32aa44512ec76b1118efd,United States,West,California,Redwood City,94061
+565dd90da8a7cd8686eb4b8227f895a4,United States,East,Massachusetts,Beverly,01915
+0951f5ccd55426a6b580101e720af17b,United States,East,Connecticut,Shelton,06484
+6fb4e1b9d00fa6298461fe63c64756f9,United States,South,Florida,Sanford,32771
+d412f155f2c9c835ed28f530f37416b6,United States,East,Ohio,Elyria,44035
+b9764cb4eade403d4fcbe6c8eb7ea493,United States,South,Georgia,Woodstock,30188
+bcb71b3066e5b4dda967b7b685ace147,United States,West,California,San Francisco,94109
+004bd6eab1ad9b9150067035a0ff616a,United States,Central,Michigan,Westland,48185
+1a359164168428fd39d4a05912e193c7,United States,West,California,Los Angeles,90004
+d5a00ec949745bbc1e2870e3c21eea5c,United States,West,Arizona,Gilbert,85234
+ab4e5c15f51e12a600eabccb1820563b,United States,Central,Illinois,Orland Park,60462
+179c2280998c797471aef5c0c8825f0a,United States,Central,Texas,Grand Prairie,75051
+0f03bf4963450b383f7eea7d415589cb,United States,West,California,Inglewood,90301
+1e34e7a4da535b7884e6a5c28b78a1ad,United States,West,California,Mission Viejo,92691
+925b1b87445fa8f5ce17adc4e7cfd059,United States,East,Ohio,Lorain,44052
+efc64274ad59432ffdaec193a4775262,United States,West,California,Murrieta,92563
+39ca6cbb7b722222e8320a2e49329dc9,United States,Central,Missouri,Jefferson City,65109
+be3cb640cd33bd2f9a893fb57d73474b,United States,South,Tennessee,Jackson,38301
+64b9f4ce51afa12f91a09f30620549b9,United States,South,North Carolina,Raleigh,27604
+7bf34cf6e9352e0cbf434c9d4a447a59,United States,South,Florida,Port Orange,32127
+24f0f4df6af6a58bcba187e6764c0763,United States,Central,Oklahoma,Oklahoma City,73120
+56f91c89db490cc43a0bad90c916c58e,United States,Central,Texas,Mesquite,75150
+8caba4ee7ab2f12983b543f8083d13f2,United States,East,Massachusetts,Malden,02148
+c37680ca4002b96cdc5dafda259e3a5f,United States,South,Florida,Tallahassee,32303
+a2b5ab7639d453cc828de11ba971b53b,United States,South,Tennessee,Nashville,37211
+2c46b28d0a2a8d839ecbab3dac3279cf,United States,East,Ohio,Lancaster,43130
+9ff1f986f98e7fdb839054be60a75e71,United States,Central,Illinois,Highland Park,60035
+46aacb4f0b1f4fa65bc2a59a3184db64,United States,Central,Indiana,Lawrence,46226
+a735de327150f3454f2e80f1165f0f68,United States,West,California,Danville,94526
+a8b92f4f37de36f7dc32967e0e0ead1d,United States,Central,Nebraska,Norfolk,68701
+fa425e12a19a2ee2b06a3d00bb713e45,United States,West,Utah,Draper,84020
+07811dba5a31050ac5f33395122d94b3,United States,Central,Michigan,Ann Arbor,48104
+127271eab330786a6c56f596a46c3082,United States,Central,Illinois,Buffalo Grove,60089
+226d79322337a60ac7e5b4ddad73a524,United States,West,California,Redding,96003
+ec40717ad127247685868b88dd5a7554,United States,West,Wyoming,Cheyenne,82001
+e1d175ed0915ee3ea15b2e0389ae7dc1,United States,West,California,Oxnard,93030
+c37c726539c495a84e31acf7926f9e15,United States,South,Florida,Delray Beach,33445
+f3388578da787ed655314356b9619926,United States,Central,Texas,Mansfield,76063
+372a92fb7ac863bc6f055a53b7c2af1b,United States,South,Arkansas,Springdale,72762
+e1c2ce991ccddbe2ae6ee8a423d00561,United States,South,Kentucky,Henderson,42420
+8dfe9755b610eb01e330772afe8d884a,United States,Central,Minnesota,Eagan,55122
+04006da95ba7d0b77dc09cbbe0236226,United States,East,Delaware,Dover,19901
+0ae58a7a672b4e52a291689029f922d3,United States,West,California,San Francisco,94122
+94767b15d1ef2b66dfda886234d1aacf,United States,West,Washington,Seattle,98115
+31935f7509a653e9b967241880a69ce9,United States,West,New Mexico,Carlsbad,88220
+11ec19d108dee1046bdf5466d697fcf4,United States,Central,Texas,San Antonio,78207
+9b41b5165185e71ff68001ef80e406c8,United States,East,New Jersey,Westfield,07090
+7af97c2b3b08fc50e5797cf24d3a3f08,United States,West,California,Santa Clara,95051
+c3234dbfd152e0f350da9865b2bd155c,United States,West,California,San Francisco,94110
+30286c1ade57b9acbe5575469cc43f76,United States,Central,Michigan,Canton,48187
+2e337ececba8637c9b5125fc28d5c068,United States,Central,Oklahoma,Norman,73071
+0346349d3cfd8cec886eed90f5a9d21c,United States,West,Colorado,Parker,80134
+445d89d42685177ef5e837a081347607,United States,East,Ohio,Cleveland,44105
+2a47d62585748bfbb227c20af49c16e5,United States,East,Pennsylvania,Chester,19013
+84e1a89fe07d3b9ad4650e173b2b089a,United States,East,New York,Oceanside,11572
+ba09fad86150f9ed275bf8d61fe109a0,United States,West,California,Oceanside,92054
+ef1ec1c37bea932153fb87146eb726de,United States,South,Florida,Boca Raton,33433
+021ff36dfa9c59973fc08020774d9a25,United States,South,Virginia,Virginia Beach,23464
+3ec9795a1b3a5075d4256081e02b2c76,United States,South,Arkansas,Jonesboro,72401
+45e5d6830ac1692b08a3930db9ad22ec,United States,West,Nevada,Reno,89502
+d56846e64a4fb8add46c9b6074b6d52a,United States,East,Massachusetts,New Bedford,02740
+07f8eeb0fcf74b65f644d8e09689f7f1,United States,East,New Jersey,Vineland,08360
+8149e67446294d9258b279d833c0c179,United States,West,Nevada,Henderson,89015
+0260b3132011148963b1855deba1b03f,United States,West,Colorado,Broomfield,80020
+556fb0659ee9ad44cfd093d52debac25,United States,Central,Missouri,Columbia,65203
+8da4e1ab9c6e7cefe2ff2b6a8eecc138,United States,West,California,San Bernardino,92404
+8ad3e33605caf5a5893f558e20eb5250,United States,Central,Illinois,Wheeling,60090
+c381d0a1d243efbe98c1aea65921056d,United States,East,Ohio,Troy,45373
+e413c99c827bc140fde7d6bec65a43ec,United States,Central,Texas,Corpus Christi,78415
+965ef023ff10a89d9d5c6e24f68e2105,United States,West,California,Temecula,92592
+2de88d85142f683015805da7462cca1f,United States,Central,Wisconsin,West Allis,53214
+9c966f87090df8ee0ccc5c0bdabccd29,United States,West,Colorado,Thornton,80229
+2fb96c2ea8c03ed2e132c917ef72ab20,United States,Central,Oklahoma,Broken Arrow,74012
+329aaa869b716b239cbea430a3654750,United States,South,Florida,Margate,33063
+f7bfd885ddb7900058f69d82d1fd1f77,United States,West,California,Santa Barbara,93101
+78dc42b93bc589a9ca60187640969cf7,United States,South,Tennessee,Lebanon,37087
+a6117869f2a232df03f7f25991a75411,United States,Central,Illinois,Chicago,60623
+43f79f1dcb270d75737410f5ae20652e,United States,West,Oregon,Portland,97206
+52939a3da2c9a2621e5b3e16f35d206a,United States,West,Colorado,Aurora,80013
+091780c029de6a7d4e751ee23838a537,United States,East,Delaware,Wilmington,19805
+9e6e5e88959f9ba3ae5d3750590c50f6,United States,South,North Carolina,Chapel Hill,27514
+9ea357043ae9be203dc12aae5c081734,United States,South,Tennessee,Murfreesboro,37130
+4bbd902fc6b6eccb56157ad85eea12e4,United States,South,Georgia,Columbus,31907
+4b2aa7a232004055414c112d203b64db,United States,East,Connecticut,Manchester,06040
+c46060eb085278a8a2731848641fb4ed,United States,East,Rhode Island,Warwick,02886
+542b9d6920127d8aff475b3266afa7f7,United States,West,California,Concord,94521
+0b7913d6a117cef9cfcf8d426d8dd502,United States,West,California,Los Angeles,90008
+1fdb7bff4bc97f738df331ffd98d0a4c,United States,West,Oregon,Salem,97301
+a33b62bd3f9d0ebe927f0adb73604e9d,United States,Central,Michigan,Dearborn,48126
+d889163e3232df88adb2bb86e5ccbb40,United States,South,Virginia,Waynesboro,22980
+a5f30f5c52d76875b29afbfc38785102,United States,South,Kentucky,Florence,41042
+709f657b675c12108a3fa7f6b8b54357,United States,West,California,Salinas,93905
+cb0dda4b55935a0749e98a88a660a9ab,United States,East,New Jersey,New Brunswick,08901
+f4a1ce7c2968222c677c4693bf474143,United States,Central,Michigan,Lansing,48911
+4526391719972d7dddf98fb46fc8c207,United States,East,Rhode Island,Providence,02908
+0f65029dd1519ccde43e8b94f451a355,United States,Central,Texas,Grapevine,76051
+f1668baee82ed01a6200cb913586ff9f,United States,Central,Illinois,Skokie,60076
+c468eae35399798b33035bd58c9f822b,United States,West,Oregon,Redmond,97756
+6cc386d05965e96d32d5567fb7434871,United States,East,Connecticut,Bristol,06010
+053293c702fc61fa14a7284671684589,United States,Central,Missouri,Springfield,65807
+545f6538f13ebdb03692098c28207617,United States,East,Ohio,Kent,44240
+69140077dd6cbc5db926fbc20fdd01d7,United States,West,California,Apple Valley,92307
+4822e2b6e4ce50c83fd51e833aa28a99,United States,Central,Minnesota,Maple Grove,55369
+ebec452a6dce2c63d558c89ea4711bf5,United States,Central,Texas,Pearland,77581
+166821eb440648f5ed733bce4850088a,United States,Central,Kansas,Manhattan,66502
+c93f385d5122fc56f7a11a65748b6765,United States,West,Arizona,Bullhead City,86442
+d34ea94e71af5080d36f11b316b80e7a,United States,Central,Indiana,Portage,46368
+10fbf1ddd5d505f77252fc43401faf7a,United States,Central,Indiana,Elkhart,46514
+b9618549539a2e2600a6380f0d1df124,United States,Central,Wisconsin,La Crosse,54601
+df6a32398b08d0761a7dccdda2b408b7,United States,Central,Michigan,Mount Pleasant,48858
+a010401aefc2572d9414c4abeb0b5fbe,United States,West,California,Moreno Valley,92553
+94b8167a02d4bab91719b558ed60d7a0,United States,West,Washington,Renton,98059
+0897e610a2b85b6709e7c43e1180554e,United States,Central,Illinois,Glenview,60025
+ac7ed31f684dbe09ca53107db7ab5a75,United States,West,California,San Clemente,92672
+139ba6bb04085dfdac11c066df815f33,United States,South,Florida,Fort Lauderdale,33311
+0ab00951d8574dd38e2020d46ece0e4e,United States,West,California,Los Angeles,90032
+fd899f93c7d118b1d4e5bef48a0b4910,United States,West,Utah,West Jordan,84084
+7b139e429ea5acca279cbbefaaea7965,United States,Central,Nebraska,Fremont,68025
+1c6f9276c507b4b7b853a3b4e857baaa,United States,South,Alabama,Decatur,35601
+cff8a8e628d4e308c77d8fc0e65dcfff,United States,West,Colorado,Denver,80219
+6bd6ce6aab4c0dbcacbbfa678e4fb783,United States,West,Colorado,Colorado Springs,80906
+53efe3c67972f3375b39931cab1b3b05,United States,South,Florida,Saint Petersburg,33710
+281d42a7bf185257d0a813a20e25d82b,United States,West,California,Santa Ana,92704
+1acdcd15053545ee6f2e1a27d2daf596,United States,South,North Carolina,Monroe,28110
+d8280df47c6de8cc0c0ec24cf7193076,United States,East,Ohio,Cuyahoga Falls,44221
+86a6fe6dce24a4ac70713fa2b0f968bf,United States,South,Florida,Coral Springs,33065
+248e8785e68f2dfe6e98a17285e4bf1e,United States,West,California,Fresno,93727
+f345438a7627d7f54a72d2521c3abb4d,United States,East,Ohio,Parma,44134
+5dfa2514b9f46f53a4709a4c9dc9dbb1,United States,Central,Texas,Coppell,75019
+7dde7ed0bca8f93bd2b04a31815e86c3,United States,West,Washington,Spokane,99207
+4d7862991c71098cb4f4f9d2a9005b20,United States,West,Montana,Missoula,59801
+fb8430998b5cb19bb0f23deb89087f2a,United States,East,New Jersey,Paterson,07501
+e1d73ca328653d32c133154a9cad1185,United States,East,New Hampshire,Dover,03820
+8bc562b4b5a07ad42c7512da907394d9,United States,East,Pennsylvania,York,17403
+da229a1bbaa5cebeb6d2deb143d90d4e,United States,Central,Texas,College Station,77840
+5f2341aae908331ca6fe36b2d13a309e,United States,West,Utah,Salt Lake City,84106
+1d357ae11a5d628f4ecb5b275be8e6d1,United States,West,Colorado,Littleton,80122
+fc036bf942b7a2cf6010512877c20933,United States,Central,Michigan,Midland,48640
+143821f851621f86f075b1de2d8dc191,United States,West,Colorado,Fort Collins,80525
+0f820368ce38cba604dfe518ad6f96ee,United States,West,California,Sacramento,95823
+9e0c7340719981a3f73062e280ff6f2e,United States,South,South Carolina,Mount Pleasant,29464
+113bf43d7bc15a5f807a2b26ed46648f,United States,Central,Michigan,Grand Rapids,49505
+14cd6baf2ddb7b0a13ad3e5ffcf4960d,United States,Central,Wisconsin,Superior,54880
+f0952d2256582067901f4719e6715959,United States,South,Florida,Miramar,33023
+798fc089c543c7861fac86f44049eb00,United States,Central,Iowa,Iowa City,52240
+ab38a776dd4ae3bdb7a35f01cf964dc6,United States,South,Virginia,Hampton,23666
+276892c69cdbeef5dec5452eb8cfd8f3,United States,West,Arizona,Yuma,85364
+6a8c272da5740a901d55bcaf8a101c85,United States,West,Utah,Lehi,84043
+c01d5e9f2c0f972c1dc2e5d13e029677,United States,Central,Minnesota,Woodbury,55125
+ad15cbe4cdf292a066555d9121ddc99f,United States,West,California,La Mesa,91941
+e61b14153c251b2acf2b92dbe742c512,United States,West,Idaho,Pocatello,83201
+62fb3e8a2111bdfc007680e8dc11d2a4,United States,East,Connecticut,Milford,06460
+d10285bce33062c1358d701ce80ff558,United States,South,Tennessee,Hendersonville,37075
+5fa42e0279515f2fd4c100b36328803d,United States,West,Washington,Everett,98208
+84dcc312eca73974cf4983232fbd4979,United States,Central,Texas,Beaumont,77705
+df65b4c456569ac7084cb7682bcc2fd1,United States,South,Georgia,East Point,30344
+a6d35647934930ddddabb738e6807d18,United States,Central,Iowa,Marion,52302
+1f6f85088168c28e931c750398e8980e,United States,West,Colorado,Greeley,80634
+a3a2cfa0ba4f0bf9dc091dcdae38aad6,United States,East,New York,New York City,10035
+20f7cf367f7ed7d7ae05aadca43f9ece,United States,Central,Wisconsin,Franklin,53132
+1eaad3a58cc48b63271da62f0376f419,United States,West,California,Redlands,92374
+aa329710e9dd08bc97547a22f935e29a,United States,East,Ohio,Akron,44312
+900d315e8be87cb9e9a924f018854e94,United States,East,Ohio,Dublin,43017
+089f7e805d01b0630cd55daeac24793a,United States,South,Tennessee,Columbia,38401
+0243ac2c5845707e5fb41e1ceb22f275,United States,Central,Texas,Austin,78745
+52b98fd0833aaf7c81e87c6530c30977,United States,West,Nevada,Las Vegas,89115
+38544443d277f4cbe9f9c9231f075c42,United States,South,Mississippi,Jackson,39212
+9c24cd3c5df04649618715f6de2a51f9,United States,East,New York,New Rochelle,10801
+3c548531c788b369a96c2b17158bbafe,United States,Central,Illinois,Park Ridge,60068
+d8880600aa57112e2cd59ae33dc37efb,United States,Central,Texas,Huntsville,77340
+3d0590207363a6f8f84a760fe283c066,United States,West,California,Costa Mesa,92627
+67b9a88048cb5f700de42bcdc6a8d07c,United States,West,Washington,Vancouver,98661
+2cc25874534555c7a504ed660a24afe8,United States,Central,Iowa,Des Moines,50315
+e5673853566ddd74c5324dbc03c0432f,United States,Central,Nebraska,Omaha,68104
+42d998fa4c0f2d3c47e3ef9e8294609e,United States,Central,Texas,Garland,75043
+c78813ecac8ad34547e75e9c8c94bce5,United States,West,New Mexico,Farmington,87401
+12fc5bde1bc16817dd0c1df03bb6b96f,United States,West,Washington,Olympia,98502
+193d9d329bdcb15bce29cb261676af44,United States,South,Alabama,Florence,35630
+687860555fc1168a0eafaadf33079f5a,United States,South,Kentucky,Murray,42071
+12e57b9ae3f20f912d882946d260922d,United States,South,Alabama,Mobile,36608
+03566a8dd528639a7e4e3f6e0e5ec5dd,United States,East,Maryland,Baltimore,21215
+26603b7762d33b5b9f8ba75f36a20aeb,United States,Central,Wisconsin,Kenosha,53142
+4718dbb1447a8c70588a779a13781d92,United States,Central,Oklahoma,Tulsa,74133
+40154961186597c08779ee49693ab2b0,United States,East,Ohio,Fairfield,45014
+7a7d3eb42f057c269c26a84561275897,United States,South,South Carolina,Florence,29501
+ad8802b98e3c1a6e967e4e6be07b9a9f,United States,South,Florida,Apopka,32712
+d0155b7d93991b854438efa2c36d2e07,United States,West,Montana,Bozeman,59715
+16924dc22f39d66fc6f304934aff05b7,United States,East,Ohio,Lakewood,44107
+aab558162c55f2cfbecbd3f5e6c628cd,United States,South,Tennessee,Clarksville,37042
+13bc98555883312ede64b4bacc287952,United States,West,California,Thousand Oaks,91360
+263faa6ba6f50290ecdaf0c3364d15df,United States,Central,Illinois,Woodstock,60098
+ef57927b7854d9b6176b6f944c8f0007,United States,South,South Carolina,Summerville,29483
+5dd5d7ad958719d8ca232155eedc9da9,United States,West,New Mexico,Las Cruces,88001
+54ef72e203dd2d2215d90d3110297839,United States,East,New Jersey,Orange,07050
+ce9a9dd3957adaa60f14a42e0c39a7cb,United States,West,California,San Mateo,94403
+23f04665fec40061b02c4f6779f4c09e,United States,Central,Kansas,Overland Park,66212
+61ca3c6411cf4c318c8ed749f0ebc8d2,United States,Central,Illinois,Tinley Park,60477
+a37e7a79646d50bdbaa9e9ffedf91243,United States,Central,Iowa,Dubuque,52001
+06ecfca75a8290878d01517e4e1c21c0,United States,West,New Mexico,Santa Fe,87505
+a266282f7ef8b0e74064b5d11a8edf3d,United States,South,North Carolina,Hickory,28601
+bd47461454bbabc1974a0a436f9632e2,United States,Central,Minnesota,Saint Cloud,56301
+bfe77841e757d884b2432baa500bd985,United States,East,Pennsylvania,Altoona,16602
+5eb91b796057285d435a5eb6f75b44f6,United States,Central,Texas,Deer Park,77536
+82436605124f9af5e2149fecd7281a08,United States,South,Florida,Daytona Beach,32114
+f4414f12358cc1443b5151c739c9d5a5,United States,Central,Oklahoma,Lawton,73505
+5170afcd5b3ca2350b6b22df37c23bde,United States,Central,Wisconsin,Wausau,54401
+772dc86668b6c5f4df152e735409452d,United States,East,Maryland,Gaithersburg,20877
+a346f8b7c0ad90884a7d48843aed5644,United States,West,Colorado,Loveland,80538
+0ae354c0f2512dcfbfd6f0c68ad8f337,United States,Central,Nebraska,Grand Island,68801
+1b4c83691c7a8d5fb8826dc181f24182,United States,West,California,Santa Maria,93454
+d0daa78f2f3937fbf8281142799551ce,United States,Central,Illinois,Palatine,60067
+46dcc4d0a9e7b93474cf0af9ddb40829,United States,West,California,San Luis Obispo,93405
+90afcd5243acde6ab7b1040e40a77d02,United States,West,California,Lodi,95240
+f4bdd8b949c7f48aba15b27c86d78594,United States,Central,Texas,Houston,77041
+6e72998d91637f4014c27e9f84ed7c3f,United States,South,Florida,Melbourne,32935
+182c1379b7a7f31b7bf7f53b6bfde3b3,United States,Central,Indiana,New Albany,47150
+af8f9c0a329889fda64aa9c1f3edf3a5,United States,East,New York,Troy,12180
+ac2aba49e62c071af80db5fe59cffece,United States,Central,Michigan,Jackson,49201
+ad2fc421ea0fd3210ae04d6e97b68f61,United States,South,Tennessee,Franklin,37064
+90f76ad63894957ce1e7fef30ed85547,United States,Central,Illinois,Quincy,62301
+3aa78b9fac637e4e29f20ddf16998fbe,United States,East,Massachusetts,Franklin,02038
+1f0319647a7dc3566672943a9aa4dce4,United States,Central,Texas,Amarillo,79109
+97c6f06b1a7127e38392e01efaf7e633,United States,West,California,San Diego,92024
+4c85e80cb8b6c6fd4252a0e406889029,United States,Central,Michigan,Detroit,48234
+e482ff330ef5e3d143d8dbc28a84b3e8,United States,South,Florida,Lakeland,33801
+54559da362bdf28509db7c03aa5dd82a,United States,East,Ohio,Grove City,43123
+e8e86e9b92ac085ff2275946d9314ae4,United States,West,California,Vallejo,94591
+3bfede40346a10e6a7ccb2aa251704a7,United States,East,New York,Mount Vernon,10550
+147bdedc14729f87b7eac38cf2679ac0,United States,Central,Illinois,Evanston,60201
+227d37899b4bda314fdf691dd286f6f8,United States,West,California,Riverside,92503
+e454047f1a6d29c8b071913050476059,United States,Central,Texas,Irving,75061
+b157347213d3a52839f56b0f7d4e9be0,United States,West,Arizona,Glendale,85301
+c73f97c43ebba7231b52a2ec98750b73,United States,West,Nevada,North Las Vegas,89031
+9ea2f48f5cded06897c8ff532ca7616b,United States,West,Washington,Kent,98031
+04c6b1e18d2e6367b07592dce61c2a55,United States,Central,Indiana,Indianapolis,46203
+78eaa1eefd232c30f6eea92471d559a2,United States,West,Oregon,Medford,97504
+dc6375f076b43db7c593bfbc6e7658e4,United States,Central,Indiana,New Castle,47362
+16f2d66c593f77c066955ac143e4a760,United States,West,California,Coachella,92236
+b10ac5aec7fd984b0e72da16570b999a,United States,Central,Wisconsin,Waukesha,53186
+e5ce21c1f8a681a6588e916246bb7245,United States,West,Idaho,Meridian,83642
+c4217aea0d9a6b9b92f1625e17d3c7bd,United States,South,Florida,North Miami,33161
+588d704144d7808571464e841e387946,United States,West,California,Lakewood,90712
+2a7eee95a9762e40308380747654716a,United States,West,Washington,Redmond,98052
+a7c4a4a2571fee3b091db318b1a1a47c,United States,South,Mississippi,Hattiesburg,39401
+1db5fe6f21c12d062a5f651882ae1d4e,United States,South,Kentucky,Georgetown,40324
+96f043850f821ca8ce264f0c08c0dc63,United States,Central,Missouri,Kirkwood,63122
+3172aa5dc1b8ab4072c7029dc5321fc6,United States,Central,Illinois,Frankfort,60423
+8a7f6102cfe267f4261e312687fa023b,United States,Central,Illinois,Saint Charles,60174
+bd053d960332ee9090d880c1971fe97a,United States,South,Florida,Kissimmee,34741
+6b5f12637993faf3a09a8c0203170293,United States,West,Idaho,Twin Falls,83301
+f40b31961cbe6623cf10cfc23ea18643,United States,Central,Illinois,Arlington Heights,60004
+191a9eedb76b3bb8a13f3df2ee425ce9,United States,West,Washington,Seattle,98103
+a60cab2522889a8359daea2f8db17c88,United States,Central,Texas,Houston,77070
+16d70c0112847496dd4871240e623f24,United States,Central,Minnesota,Minneapolis,55407
+33801fc0d8949dbecc11fa601fada9fa,United States,West,California,San Jose,95123
+b407c7d0ce7f30639929a93a21ae38a6,United States,West,California,Whittier,90604
+d302355bf4285078d669c26629fd7473,United States,West,California,San Diego,92037
+e7b55e12bacb1eca0a10f473688bc56b,United States,Central,Michigan,Taylor,48180
+023e9f0bb0054be383a04eabc5616f9d,United States,South,Florida,Palm Coast,32137
+603fc0d97e47eac90a093700006f6bd3,United States,South,Florida,Hialeah,33012
+a4e52368c3efaa868e2bc6bcf3980aa8,United States,Central,Michigan,Trenton,48183
+addd4ddd2652a598a435e6846f60b088,United States,South,Virginia,Richmond,23223
+13d61c43003532c23eb1a581e6c13e4f,United States,West,Washington,Edmonds,98026
+48229eaa8322d5cb145c599bd4695cc7,United States,South,Florida,Miami,33142
+ebea3ce6077cb94bcaf3ce653e1e976c,United States,South,Virginia,Salem,24153
+54f479c9621743d9c6834eb11c4aa91a,United States,Central,Texas,El Paso,79907
+648c92cba9f60f5a8bef7237db139ca2,United States,South,North Carolina,Greensboro,27405
+32f4941cbf83d5c8834026925348d948,United States,East,Connecticut,Meriden,06450
+e12724886d80a253844087b3e5809d14,United States,East,New Jersey,Perth Amboy,08861
+58d36d72d2791e4050bb2b8ce4a285b6,United States,West,California,Sunnyvale,94086
+5f08e94f4da9370cfc974fb3007e940c,United States,Central,Missouri,Saint Louis,63116
+143720c2e74cd480b154c351a5057f52,United States,East,Vermont,Burlington,05408
+32d913360da5aa7206756987c05eee87,United States,South,Florida,Orlando,32839
+6b82d6662aa8a9e0f9695f1ca9964317,United States,South,Louisiana,Lake Charles,70601
+f0eb59db98cf3147d1e57fa420660128,United States,Central,Indiana,Noblesville,46060
+644dfe61483b609fd0da82710e1846ba,United States,Central,Illinois,Carol Stream,60188
+0d9892e291c4b0410fba856d0d13bbbb,United States,South,Florida,Port Saint Lucie,34952
+82d6d4d2faa40ba18f99548db1e5a0b6,United States,Central,Texas,Bedford,76021
+8bf860afeb03ade97fe2b1de1917331e,United States,East,Connecticut,Waterbury,06708
+c00c48b701ec8d8daecb62a09b7194ab,United States,East,Maine,Lewiston,04240
+7957abc6ef1fa51abd1e00ab78ae0476,United States,South,Florida,Jupiter,33458
+36a31c63b88c4a6ce603414b46c3caa4,United States,South,North Carolina,Goldsboro,27534
+7ada63f617d34af358fbb7cee531b80e,United States,West,California,El Cajon,92020
+2f46c13f8621e2d39df3b46839ff6ead,United States,West,California,Modesto,95351
+200560c724acfe4b84be9e2ce0de6b9f,United States,East,New Jersey,Atlantic City,08401
+1777aa300aff84f6cd6948090cbd9a8d,United States,Central,Texas,San Marcos,78666
+92d4b9fbe8b953fc7ce360e6d4e3bf97,United States,West,California,Dublin,94568
+38fd854de9a73ce3f6a2c45807e854a8,United States,East,Ohio,Mason,45040

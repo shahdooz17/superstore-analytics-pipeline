@@ -1,0 +1,5 @@
+discount_band,min_discount,max_discount_exclusive,sort_order
+No discount,0.00,0.01,1
+Up to 20%,0.01,0.21,2
+21-40%,0.21,0.41,3
+Over 40%,0.41,1.01,4

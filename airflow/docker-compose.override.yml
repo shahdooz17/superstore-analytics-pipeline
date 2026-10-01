@@ -1,0 +1,9 @@
+# Astro automatically merges this file into its docker-compose setup.
+# It makes the repo folders that live OUTSIDE airflow/ visible inside the containers.
+# (Tasks run in the scheduler container, so that is the only service that needs them.)
+services:
+  scheduler:
+    volumes:
+      - ../dbt_project:/usr/local/airflow/dbt_project:rw
+      - ../scripts:/usr/local/airflow/scripts:ro
+      - ../data:/usr/local/airflow/data:rw

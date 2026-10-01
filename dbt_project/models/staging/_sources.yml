@@ -1,0 +1,25 @@
+version: 2
+
+sources:
+  - name: ods
+    description: >
+      Raw landing layer. `scripts/load_to_ods.py` loads Superstore.xlsx here unchanged
+      (original column names, plus a `_loaded_at` timestamp).
+    schema: ods
+    tables:
+      - name: superstore_raw
+        description: One row per product line within an order (9,994 rows, 2014-2017).
+        columns:
+          - name: Row ID
+            quote: true
+            description: Unique row number from the source file.
+            data_tests: [unique, not_null]
+          - name: Order ID
+            quote: true
+            data_tests: [not_null]
+          - name: Customer ID
+            quote: true
+            data_tests: [not_null]
+          - name: Product ID
+            quote: true
+            data_tests: [not_null]

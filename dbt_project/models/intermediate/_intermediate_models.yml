@@ -1,0 +1,23 @@
+version: 2
+
+models:
+  - name: int_order_lines
+    description: >
+      Order lines enriched with business fields: delivery days, profit margin,
+      a loss-making flag and the discount band (from the discount_bands seed).
+    columns:
+      - name: row_id
+        data_tests: [unique, not_null]
+      - name: ship_days
+        description: Days between order date and ship date.
+      - name: is_loss_making
+        description: True when the line's profit is negative.
+      - name: discount_band
+        description: Human-friendly discount bucket. Must never be null.
+        data_tests: [not_null]
+
+  - name: int_customer_summary
+    description: One row per customer with first/last order dates and lifetime totals.
+    columns:
+      - name: customer_id
+        data_tests: [unique, not_null]
